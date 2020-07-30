@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MyBio/static/css/main.7652a449.chunk.css",
+    "main.js": "/MyBio/static/js/main.fe1e1f8a.chunk.js",
+    "main.js.map": "/MyBio/static/js/main.fe1e1f8a.chunk.js.map",
+    "runtime-main.js": "/MyBio/static/js/runtime-main.ee5f41c0.js",
+    "runtime-main.js.map": "/MyBio/static/js/runtime-main.ee5f41c0.js.map",
+    "static/js/2.8dd3f609.chunk.js": "/MyBio/static/js/2.8dd3f609.chunk.js",
+    "static/js/2.8dd3f609.chunk.js.map": "/MyBio/static/js/2.8dd3f609.chunk.js.map",
+    "index.html": "/MyBio/index.html",
+    "precache-manifest.ef86b637f9a15def7f06a1b2b696f9f8.js": "/MyBio/precache-manifest.ef86b637f9a15def7f06a1b2b696f9f8.js",
+    "service-worker.js": "/MyBio/service-worker.js",
+    "static/css/main.7652a449.chunk.css.map": "/MyBio/static/css/main.7652a449.chunk.css.map",
+    "static/js/2.8dd3f609.chunk.js.LICENSE.txt": "/MyBio/static/js/2.8dd3f609.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/MyBio/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee5f41c0.js",
+    "static/js/2.8dd3f609.chunk.js",
+    "static/css/main.7652a449.chunk.css",
+    "static/js/main.fe1e1f8a.chunk.js"
+  ]
+}
